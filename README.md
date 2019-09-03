@@ -11,13 +11,16 @@ I did not find the delete button on the layout, so I added it myself. Using this
 
 Using the "Add to List" button, you can add one item taken from Mock-date from file public/mock /add_list.json
 
-Used "redux" to manage application data, also to simulate the state of data loading
+Used redux to manage application data, also to simulate the state of data loading
 
 I also implemented the following functionality:
 
 For table column for the video. When you play, the size of the player increases and the description for the video is hidden. When the video is paused, the container returns to its original form.
 
 But I have problems rewinding the video, the player perceives rewinding as a pause. So after rewinding happen resizing video player.
+
+
+P.S: Git hub pages doesn't support static json data, so I changed it to variables with same mock data.
 ## Technologies
 The following technologies were used to implement this project:
 - react
