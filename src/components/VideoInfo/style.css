@@ -1,0 +1,48 @@
+.video-container {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+.video-info {
+    width: calc(100% - 120px);
+    padding: 0 5px;
+}
+
+.video-desc {
+    box-sizing: border-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 50%;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.video-panel {
+    font-weight: 500;
+    color: white;
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.video-panel > .fa {
+    padding: 0 5px;
+}
+
+.video-panel > .label {
+    padding: 0 5px;
+    cursor: default;
+}
+
+.video-container-pause {
+    height: 70px;
+}
+
+.video-container-play {
+    height: 220px;
+}
+
+.video-container-play > .video-info {
+    display: none;
+}

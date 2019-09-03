@@ -1,0 +1,58 @@
+.App {
+    background-color: #2e2c3e;
+    min-height: 100vh;
+    color: #918a9c;
+    font-weight: 200;
+}
+
+.fa {
+    font-size: 15px;
+    color: #f5f6f6;
+    cursor: pointer;
+}
+
+.title {
+    font-weight: 200;
+    font-size: 32px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.page-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+.group-btn-header {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-end;
+    flex-grow: 1;
+}
+
+.btn-header {
+    margin-left: 10px;
+}
+
+@media (min-width: 1000px) and (max-width: 1200px) {
+    .btn-header {
+        min-width: 160px;
+    }
+
+    .group-btn-header {
+        width: 50%;
+    }
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+}
