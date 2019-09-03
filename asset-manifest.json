@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bondsergey/youtube_test/static/css/main.651fc8f9.chunk.css",
+    "main.js": "/bondsergey/youtube_test/static/js/main.39b5361f.chunk.js",
+    "main.js.map": "/bondsergey/youtube_test/static/js/main.39b5361f.chunk.js.map",
+    "runtime~main.js": "/bondsergey/youtube_test/static/js/runtime~main.7abed154.js",
+    "runtime~main.js.map": "/bondsergey/youtube_test/static/js/runtime~main.7abed154.js.map",
+    "static/js/2.113e49a6.chunk.js": "/bondsergey/youtube_test/static/js/2.113e49a6.chunk.js",
+    "static/js/2.113e49a6.chunk.js.map": "/bondsergey/youtube_test/static/js/2.113e49a6.chunk.js.map",
+    "index.html": "/bondsergey/youtube_test/index.html",
+    "precache-manifest.ec5dfe0316d59e72642d8008a385e225.js": "/bondsergey/youtube_test/precache-manifest.ec5dfe0316d59e72642d8008a385e225.js",
+    "service-worker.js": "/bondsergey/youtube_test/service-worker.js",
+    "static/css/main.651fc8f9.chunk.css.map": "/bondsergey/youtube_test/static/css/main.651fc8f9.chunk.css.map"
+  }
+}
